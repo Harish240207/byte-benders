@@ -1,0 +1,8 @@
+{
+  "name": "Byte Benders",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "07de9bf4"
+}
